@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.light{
+    background-color: beige;
+}
+.dark{
+    background-color: darkslategrey;
+}
+.barbie{
+    background-color: pink;
+}
